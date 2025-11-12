@@ -28,5 +28,7 @@ A página apresenta um layout moderno com:
 - **Kauan Alves (Turma B)** 
 
 **Curso:** Técnico em Desenvolvimento de Sistemas – SENAI Jandira
+
 **Disciplina:** Linguagem de Marcação (LIMA)
+
 **Professor:** Fernando Leonid
