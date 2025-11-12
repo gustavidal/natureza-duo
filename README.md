@@ -1,5 +1,7 @@
 # NatureLife
 
+![Projeto NatureLife no Figma](./img/projeto-figma.png)
+
 Atividade desenvolvida no **SENAI Jandira** em dupla. O objetivo foi criar uma **landing page** entre as opções dadas pelo professor. Escolhemos a de tema natureza por ser simples e por nos dar oportunidades de aprender outros tipos de formatação utilizando apenas **HTML** e **CSS**.
 
 ## Tecnologias Utilizadas
@@ -23,6 +25,9 @@ A página apresenta um layout moderno com:
 ## Autores
 
 Projeto desenvolvido por **Gustavo Vidal (Turma A)** e **Kauan Alves (Turma B)**  
+
 Curso: **Técnico em Desenvolvimento de Sistemas – SENAI Jandira**
+
 Disciplina: **Linguagem de Marcação (LIMA)**
+
 Professor: **Fernando Leonid**
