@@ -31,4 +31,4 @@ A página apresenta um layout moderno com:
 
 **Disciplina:** Linguagem de Marcação (LIMA)
 
-**Professor:** Fernando Leonid
+**Professor:** [Fernando Leonid](https://github.com/fernandoleonid)
